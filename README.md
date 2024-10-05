@@ -1,6 +1,6 @@
 # Modamingle
 
- AA learning project to deepen my understanding of web development and technologies used in building a modern e-commerce platform for stylish bags. This project is made according to industry standards with proper routes and seperation of concerns.
+ AA learning project to deepen my understanding of web development and technologies used in building a modern e-commerce platform for stylish bags. This project is made according to industry standards with proper routes and seperation of concerns. Reference has been taken from youtube.
 
 ## Table of Contents
 
